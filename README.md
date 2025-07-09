@@ -1,4 +1,4 @@
-<h1 align="center">Joko Saptono🐰</h1>
+<h1 align="center">Joko Saptono</h1>
 
 ###
 

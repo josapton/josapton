@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="275" src="https://i.imgur.com/THWWpWi.jpeg"  />
-</div>
-
-###
-
 <h3 align="center">Ingin Menjadi Programmer Handal Namun Enggan Ngoding</h3>
 
 ###
@@ -63,11 +57,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josapton/josapton/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/josapton/josapton/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img height="285" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXpqeXM4M3BpYzBmdWZxeHluMzJnNXRhNjNlb3Rva2E2ZzFjeHR0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ljH8TvHVMhpaezLmJr/giphy.gif"  />
-</div>
 
 ###

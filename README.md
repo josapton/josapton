@@ -1,10 +1,6 @@
-<br clear="both">
-
 <h1 align="center">Joko Saptono</h1>
 
 ###
-
-<br clear="both">
 
 <p align="center">Ingin Menjadi Programmer Handal Namun Enggan Ngoding</p>
 

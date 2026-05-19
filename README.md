@@ -1,5 +1,5 @@
 ###
 
-<h1 align="center">Ingin Menjadi Programmer Handal Namun Enggan Ngoding</h1>
+<h1 align="center">Vibe living.</h1>
 
 ###

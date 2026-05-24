@@ -5,5 +5,3 @@
   <br/>
   <p>Building secure, scalable systems and exploring the intersection of technology, data, and agriculture.</p>
 </div>
-
----
